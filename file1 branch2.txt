@@ -1,1 +1,2 @@
 file pertama dari branch ke 2
+saya menambahkan text baru pada file pertama di branch 2 ini
